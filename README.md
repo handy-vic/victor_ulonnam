@@ -1,5 +1,3 @@
-# victor_ulonnam
-
 # Hi there, I'm Victor Ulonnam 👋
 
 🚀 **Java Developer | AI & Machine Learning Enthusiast**
